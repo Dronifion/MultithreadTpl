@@ -1,2 +1,2 @@
 # MultithreadTpl
-To test various function of Task Parallel Library (TPL) 
+To test various functions of Task Parallel Library (TPL) 
